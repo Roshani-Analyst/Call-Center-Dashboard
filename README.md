@@ -10,7 +10,7 @@ This project demonstrates a **Call Center Dashboard** created using Power BI as 
 - **Agent Statistics Table**: Provides individual agent performance on key metrics.
 - **Call Volume by Month**: Shows trends in call volume for different months.
 
-![Call Center Dashboard]()
+![Call Center Dashboard](https://github.com/Roshani-Analyst/Call-Center-Dashboard/blob/main/Call%20Center%20(pwc1).png)
 
 ## 🔑 Key Insights
 1. **81% of calls are answered**, with a **73% resolution rate**.
